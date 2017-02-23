@@ -1,0 +1,3 @@
+/home/mikel/workspace/CtCI/BitManipulation/5.7/build/CMakeFiles/rebuild_cache.dir
+/home/mikel/workspace/CtCI/BitManipulation/5.7/build/CMakeFiles/edit_cache.dir
+/home/mikel/workspace/CtCI/BitManipulation/5.7/build/CMakeFiles/main.dir
