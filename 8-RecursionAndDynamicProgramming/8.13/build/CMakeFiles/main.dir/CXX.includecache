@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mikel/workspace/CtCI/8-RecursionAndDynamicProgramming/8.13/main.cpp
+algorithm
+-
+iterator
+-
+iostream
+-
+stdio.h
+-
+vector
+-
+utility
+-
+
