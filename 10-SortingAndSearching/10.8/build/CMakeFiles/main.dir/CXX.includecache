@@ -6,25 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/byte/workspace/CtCI/10-SortingAndSearching/10.7/main.cpp
-array
--
-limits
--
+/home/byte/workspace/CtCI/10-SortingAndSearching/10.8/main.cpp
 iostream
 -
-memory
+cstring
 -
-vector
--
-array
--
-limits
--
-iostream
--
-memory
--
-vector
+stdio.h
 -
 

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/byte/workspace/CtCI/10-SortingAndSearching/10.7/main.cpp" "/home/byte/workspace/CtCI/10-SortingAndSearching/10.7/build/CMakeFiles/main.dir/main.cpp.o"
+  "/home/byte/workspace/CtCI/10-SortingAndSearching/10.8/main.cpp" "/home/byte/workspace/CtCI/10-SortingAndSearching/10.8/build/CMakeFiles/main.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
