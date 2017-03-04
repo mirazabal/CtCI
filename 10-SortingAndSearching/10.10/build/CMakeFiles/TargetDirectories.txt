@@ -1,0 +1,3 @@
+/home/byte/workspace/CtCI/10-SortingAndSearching/10.10/build/CMakeFiles/edit_cache.dir
+/home/byte/workspace/CtCI/10-SortingAndSearching/10.10/build/CMakeFiles/rebuild_cache.dir
+/home/byte/workspace/CtCI/10-SortingAndSearching/10.10/build/CMakeFiles/main.dir
