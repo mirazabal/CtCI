@@ -103,7 +103,7 @@ int main()
 	for( auto& val : *vs)
 		val = 0;
 
-	for(int i = 0; i < 10000; i++)
+	for(int i = 0; i < 10001; i++)
 		setVectorTrue(i, *vs );
 
 	cout << readFirstMissing(*vs) << endl;

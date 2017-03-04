@@ -6,5 +6,5 @@ CXX_FLAGS =  -std=c++14 -g
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/byte/workspace/CtCI/10-SortingAndSearching/10.7 
+CXX_INCLUDES = -I/home/mikel/workspace/CtCI/10-SortingAndSearching/10.7 
 
