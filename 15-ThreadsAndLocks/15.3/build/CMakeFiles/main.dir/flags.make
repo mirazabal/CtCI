@@ -6,5 +6,5 @@ CXX_FLAGS =  -std=c++14 -g
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/byte/workspace/CtCI/15-ThreadsAndLocks/15.3 
+CXX_INCLUDES = -I/home/mikel/workspace/CtCI/15-ThreadsAndLocks/15.3 
 

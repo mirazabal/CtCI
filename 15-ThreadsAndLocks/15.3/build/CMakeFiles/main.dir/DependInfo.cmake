@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/byte/workspace/CtCI/15-ThreadsAndLocks/15.3/main.cpp" "/home/byte/workspace/CtCI/15-ThreadsAndLocks/15.3/build/CMakeFiles/main.dir/main.cpp.o"
+  "/home/mikel/workspace/CtCI/15-ThreadsAndLocks/15.3/main.cpp" "/home/mikel/workspace/CtCI/15-ThreadsAndLocks/15.3/build/CMakeFiles/main.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
