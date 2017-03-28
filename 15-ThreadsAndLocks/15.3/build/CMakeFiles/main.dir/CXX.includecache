@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/byte/workspace/CtCI/15-ThreadsAndLocks/15.3/main.cpp
+chrono
+-
+iostream
+-
+memory
+-
+mutex
+-
+stdio.h
+-
+stdlib.h
+-
+thread
+-
+time.h
+-
+vector
+-
+
