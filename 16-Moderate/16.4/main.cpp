@@ -46,7 +46,8 @@ Piece checkVertical(vector< vector<Piece>>& table){
 }
 
 Piece checkDiagonal( vector< vector<Piece> >& table){
-	for(auto i = 0, auto j = 0; i < table.size(); ++i, ++j){
+	int j{0};
+	for(auto i = 0, j = 0; i < table.size(); ++i, ++j){
 		if(table[0][0] != table[i][j]){
 			break;
 		}
